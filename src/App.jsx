@@ -37,5 +37,5 @@ export default function App() {
   );
 }
 
-// Add custom CSS. watch that one yt video
+// Add custom CSS
 // Make webpage responsive
